@@ -1,6 +1,6 @@
 <?php
 
-$host = "http://54.252.239.114/";
+$host = "http://13.54.153.119/";
 $uid = "root";
 $pwd = "cinnamoroll";
 $db = "xsalary";
